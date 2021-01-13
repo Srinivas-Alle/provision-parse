@@ -1,5 +1,5 @@
 {
-  "name": "@srinivas/provision-parse",
+  "name": "provision-parse",
   "version": "1.0.0",
   "description": "\"To parse mobile provision files\"",
   "main": "index.js",
